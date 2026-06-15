@@ -115,6 +115,8 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>allegro.lib;allegro_primitives.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>C:\Users\JoelA\source\repos\CPSC440_Lab8_BitmapMovement\packages\Allegro.5.2.11.3\build\native\v143\x64\lib</AdditionalLibraryDirectories>
     </Link>
     <Manifest>
       <EnableSegmentHeap>true</EnableSegmentHeap>
